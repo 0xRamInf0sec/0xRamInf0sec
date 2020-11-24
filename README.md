@@ -2,7 +2,7 @@
 Cybersecurity enthusiast | Software developer | Programmer | Passion on cybercrime.
 
 <hr>
-<script>alert(1)</script>
+
 # About Me
 
 I'm an Cyber Security enthusiast and who loves to do progamming.I love to create an python tool for open source intelligence.I love the category OSINT.I always try to improve my knowledge through reading writeups from several webpages and forums.I am not an Bug hunter but I am learning bug hunter through reading lots of writeups.
