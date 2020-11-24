@@ -5,7 +5,7 @@ Cybersecurity enthusiast | Software developer | Programmer | Passion on cybercri
 
 # About Me
 
-I'm an Cyber Security enthusiast and who loves to do progamming.I love to create an python tool for open source intelligence.I love the category OSINT.I always try to improve my knowledge through reading writeups from several webpages and forums.I am not an Bug hunter but I am learning bug bounty through reading lots of writeups.
+I'm an Cyber Security enthusiast and who loves to do progamming.I love to create an python tool for open source intelligence.I love the category OSINT.I always try to improve my knowledge through reading writeups from several webpages and forums.I am not an Bug hunter but I am learning bug hunter through reading lots of writeups.
 
 - I’m currently studying in Skcet
 - I’m currently learning Btech Information technology.
