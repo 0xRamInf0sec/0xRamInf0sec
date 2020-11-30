@@ -1,4 +1,4 @@
-<body style="background-color:black">
+
 # Ramalingasamy M K
 Cybersecurity enthusiast | Software developer | Programmer | Passion on cybercrime.
 
@@ -22,7 +22,7 @@ I'm an Cyber Security enthusiast and who loves to do progamming.I love to create
 ![lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramalingasamy012&layout=compact&theme=tokyonigh)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ramalingasamy012&theme=merko&show_icons=true)
-</body>
+
 ## Follow Me:
 
 [![Github Follow](https://img.shields.io/github/followers/Ramalingasamy012?style=social)](https://github.com/Ramalingasamy012/) <br>
