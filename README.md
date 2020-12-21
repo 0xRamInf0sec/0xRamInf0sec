@@ -6,18 +6,17 @@ Cybersecurity enthusiast | Software developer | Programmer | Passion on cybercri
 
 # About Me
 
-I'm an Cyber Security enthusiast and who loves to do progamming.I love to create an python tool for open source intelligence.I love the category OSINT.I always try to improve my knowledge through reading writeups from several webpages and forums.I am not an Bug hunter but I am learning bug hunter through reading lots of writeups.
+I'm an Cyber Security enthusiast and who loves to do problem solving on platforms like geeksforgeeks,Hackerearth.I always try to improve my knowledge through reading writeups from several webpages and forums.I am not an Bug hunter but I am learning bug hunting through reading lots of writeups.
 
 - I’m currently studying in Skcet
 - I’m currently learning Btech Information technology.
-- Love towards Programming and Hacking.
+- Love towards Programming and Cybersecurity.
 
 # Skills
 - Python Scripting
 - C,JAVA,Python,PHP
 - Web Development
 - Android Development
-- Penetration testing
 
 ![lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramalingasamy012&layout=compact&theme=tokyonigh)
 
