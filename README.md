@@ -6,7 +6,7 @@ Cybersecurity enthusiast | Software developer | Programmer | Passion on cybercri
 
 # About Me
 
-I'm an Cyber Security enthusiast and who loves to do problem solving on platforms like geeksforgeeks,Hackerearth.I always try to improve my knowledge through reading writeups from several webpages and forums.I am not an Bug hunter but I am learning bug hunting through reading lots of writeups.
+I'm an Cyber Security enthusiast and who loves to do problem solving on platforms like geeksforgeeks,Hackerearth.I always try to improve my knowledge through reading writeups from several webpages and forums.
 
 - I’m currently studying in Skcet
 - I’m currently learning Btech Information technology.
