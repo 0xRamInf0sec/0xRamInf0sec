@@ -15,6 +15,7 @@ I'm an Cyber Security enthusiast and who loves to do problem solving on platform
 # Skills
 - Python Scripting
 - C,JAVA,Python,PHP
+- Penetration Testing
 - Web Development
 - Android Development
 
