@@ -26,7 +26,7 @@
 - 🌱 I’m currently learning Flutter :wink:
 - 🥅 2021 Goals: To Win a Hackathon.
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: Let's get in touch![LinkedIn](https://www.linkedin.com/in/ramalingasamy-m-k-9003b21a3/)
+- 📬 How to reach me: Let's get in touch! [LinkedIn](https://www.linkedin.com/in/ramalingasamy-m-k-9003b21a3/)
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
