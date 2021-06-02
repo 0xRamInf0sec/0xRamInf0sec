@@ -4,6 +4,7 @@
 </p>
 
 <p align="center">
+    <img align="center" alt="visitors" src="https://www.hackthebox.eu/badge/image/386520" /><br>
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Ramalingasamy012" />
 </p>
 
