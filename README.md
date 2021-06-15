@@ -4,9 +4,6 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Ramalingasamy012" />
-</p>
-<p align="center">
 <br>
  <a href="https://www.youtube.com/channel/UCJgt2GFgJo6InoXg-k5QJ4w"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://www.instagram.com/_ram404/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
