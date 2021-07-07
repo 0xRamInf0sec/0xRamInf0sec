@@ -18,7 +18,7 @@
 
 ### I am a Full stack developer and Security Researcher
 - 🔭 I’m currently studying at SKCET :grin:
-- 🌱 I’m currently doing practice with React JS :wink:
+- 🌱 I’m currently doing practice with problem solving :wink:
 - 🥅 2021 Goals: To get offer in Web development and product company.
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: Let's get in touch! [LinkedIn](https://www.linkedin.com/in/ramalingasamy-m-k-9003b21a3/)
