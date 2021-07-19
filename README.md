@@ -10,6 +10,7 @@
 <a href="https://www.linkedin.com/in/ramalingasamy-m-k-9003b21a3/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:mkraviram476@gmail.com?subject=Hello%20Ram!"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
  <img src="http://www.hackthebox.eu/badge/image/386520" alt="Hack The Box" height="38px" width="200px"> 
+ <a href="https://medium.com/@rammk01"><img src="https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="medium" /></a>&nbsp;
 </p>
 
 <br>
