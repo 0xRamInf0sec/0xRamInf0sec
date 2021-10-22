@@ -47,6 +47,16 @@
 <br>
 <br>
 
+## My recent Writeup's
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rammk01/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rammk01/0" alt="Recent Article 0"> 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rammk01/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rammk01/1" alt="Recent Article 1"> 
+  
+## My recent Youtube Video's
+  
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/paKvr5u87uY/0.jpg)](https://www.youtube.com/watch?v=paKvr5u87uY)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/epSw4Dir1Ww/0.jpg)](https://www.youtube.com/watch?v=epSw4Dir1Ww)
+  
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ramalingasamy012&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Ramalingasamy's Github Stats">
 </p>
