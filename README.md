@@ -17,10 +17,9 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Full stack developer and Security Researcher
+### I am a Software Engineer and Security Researcher
 - 🔭 I’m currently studying at SKCET :grin:
-- 🌱 I’m currently doing practice with problem solving :wink:
-- 🥅 2021 Goals: To get offer in product company.
+-    Playing CTF in TamilCTF
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: Let's get in touch! [LinkedIn](https://www.linkedin.com/in/ramalingasamy-m-k-9003b21a3/)
 - 🧗 I try to: Go beyond and push the bounds
@@ -68,17 +67,6 @@
 </p>
 
 
-
-<br>
-
-📊 **This week I spent my time on**
-<!--START_SECTION:waka-->
-```text
-Security Research on public websites.
-```
-<!--END_SECTION:waka-->
-
-<br>
 
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
