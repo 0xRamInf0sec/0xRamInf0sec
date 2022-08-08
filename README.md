@@ -20,7 +20,6 @@
 
 
 ### I am a Software Engineer and Security Researcher
-- 🔭 I’m currently studying at SKCET :grin:
 -    Playing CTF in TamilCTF
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: Let's get in touch! [LinkedIn](https://www.linkedin.com/in/ramalingasamy-m-k-9003b21a3/)
