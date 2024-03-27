@@ -1,6 +1,6 @@
  <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> 
 <p>
-  <h1 align="center"><b>Hello there, I'm Ramalingasamy M K 👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm Ramalingasamy M K aka 0xRamInf0sec 👋</b></h1>
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
  <a href="https://www.youtube.com/channel/UCJgt2GFgJo6InoXg-k5QJ4w"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://www.instagram.com/ram_0x_infosec/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/ramalingasamy-m-k-9003b21a3/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:mkraviram476@gmail.com?subject=Hello%20Ram!"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="mailto:ram0xinfosec@gmail.com?subject=Hello%20Ram!"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
  <img src="http://www.hackthebox.eu/badge/image/386520" alt="Hack The Box" height="38px" width="200px"> 
  <a href="https://medium.com/@rammk01"><img src="https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="medium" /></a>&nbsp;
 </p>
